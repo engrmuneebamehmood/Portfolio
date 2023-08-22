@@ -217,13 +217,13 @@ footer {
 }
 
 /* Media Queries */
-@media (max-width: 1200px) {
+@media (max-width: 1400px) {
   .about-content, .skills-content, .projects-content, .contact-content {
     width: 95%;
   }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 1000px) {
   .about-content, .skills-content, .projects-content, .contact-content {
     width: 100%;
     padding: 0 1rem;
